@@ -1,5 +1,5 @@
 # .github
 
-actnova-inc/.github is a special repository.
+`actnova-inc` 조직 외부의 유저들에게 보이는 README 를 작성할 수 있습니다.
 
-The /profile/README.md will appear on the organization's profile.
+- `/profile/README.md` 를 수정하세요.
